@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "d-4-s-sp-fx-mockup-data",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "8154d4a2-0a04-4bb0-ba36-0169c253cc34"
+  }
+}
